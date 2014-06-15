@@ -44,7 +44,7 @@ h2{text-align:center; font-size:14px; font-weight:normal;}
 	color:#000;
 	}
 
-#TIPO{background:#F90; padding:5px;}
+#TIPO{background:#F90; padding:10px;}
 #TIPO ul{margin:0; padding:0; list-style:none;}
 #TIPO ul li{
 	width:auto; height:auto; 
@@ -56,16 +56,16 @@ h2{text-align:center; font-size:14px; font-weight:normal;}
 	}
 #TIPO ul li a{
 	display:block;
-	margin-bottom:10px; padding:10px 10px 10px 50px; 
+	margin-bottom:10px; padding:20px 20px 20px 50px; 
 	font-size:12px;
 	text-decoration:none;
 	font-weight:800;
 	color:#000;
 	}
 
-section{background:#F90; padding:5px;}
-.PRODUCTO{padding:5px; margin-bottom:5px; border:1px #999 dashed; font-size:12px; background:#fff;}
-	.PRODUCTO img{float:left; background:#9F6;}
-	.PRODUCTO .detalleproducto{float:left; margin-left:10px;}
+section{background:#F90; padding:10px;}
+.PRODUCTO{padding:5px; margin-bottom:10px; border:1px #999 dashed; font-size:12px; background:#fff;}
+	.PRODUCTO img{float:left; margin-right:10px; height:auto; background:#9F6;}
+	.PRODUCTO .detalleproducto{width:auto; margin-left:10px;}
 
 footer{padding:10px; background:#000; color:#FFF; text-align:center; font-size:10px; font-weight:800;}
